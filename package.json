@@ -1,0 +1,19 @@
+{
+	"name": "restorehelper",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"start": "ts-node src/Bot.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^18.15.11",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.0.3"
+	},
+	"dependencies": {
+		"dotenv": "^16.0.3"
+	}
+}
